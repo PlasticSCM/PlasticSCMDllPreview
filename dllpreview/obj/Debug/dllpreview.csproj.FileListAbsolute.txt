@@ -1,0 +1,6 @@
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\bin\Debug\dllpreview.exe.config
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\bin\Debug\dllpreview.exe
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\bin\Debug\dllpreview.pdb
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\obj\Debug\dllpreview.csprojResolveAssemblyReference.cache
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\obj\Debug\dllpreview.exe
+C:\Users\manu\Documents\Visual Studio 2015\Projects\dllpreview\dllpreview\obj\Debug\dllpreview.pdb
