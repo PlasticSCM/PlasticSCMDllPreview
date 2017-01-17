@@ -35,7 +35,7 @@ Open the Plastic SCM preferences, click on “Preview Tools” and add a new one
 We are using the same tool for both the preview generator and the properties generator so the “Full path to the properties generator” is exactly the same as the one above for the preview tool meanwhile the “Command options to generate file properties” files should just be "@src". That’s it!
 
 For the avoidance of doubt here you have an screenshot of my config:
-![alt tag](https://github.com/PlasticSCM/PlasticSCMDllPreview/blob/v1/images/config.png)
+![alt tag](https://github.com/PlasticSCM/PlasticSCMDllPreview/blob/master/images/config.png)
 
 Check out the results!
 
